@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SchoolLife_v1</string>
+    <string name="fragment1">일정 탭</string>
+    <string name="fragment2">홈 탭</string>
+    <string name="fragment3">기록 탭</string>
+    <string name="userschool">사용자 학교명</string>
+    <string name="usernum">이름 - 몇학년 몇반 몇번</string>
+    <string name="submitbt">제출하기</string>
+    <string name="writebt">기록하기</string>
+    <string name="list_title">활동 목록</string>
+    <string name="appbar_scrolling_view_behavior">뭐해야되는데</string>
+    <string name="title1">easy check</string>
+    <string name="text1">내용</string>
+    <string name="text2">내용</string>
+    <string name="text3">내용</string>
+    <string name="text4">School Life에 오신 것을 환영합니다. \n
+    School Life에서는 학생 기록부에\n
+    다양한 기능을 접할 수 있습니다.\n
+    약관에 동의하시고 School Life를 즐겨보세요.</string>
+</resources>
